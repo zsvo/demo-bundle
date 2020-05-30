@@ -7,7 +7,7 @@ sources:
   - src
 
 libs:
-  - origin: https://github.com/mongoose-os-libs/aws
+#  - origin: https://github.com/mongoose-os-libs/aws
   - origin: https://github.com/mongoose-os-libs/ca-bundle
   - origin: https://github.com/mongoose-os-libs/core
   - origin: https://github.com/mongoose-os-libs/dash
@@ -86,7 +86,7 @@ conds:
       libs:
         - origin: https://github.com/mongoose-os-libs/adc
         - origin: https://github.com/mongoose-os-libs/atca
-        - origin: https://github.com/mongoose-os-libs/azure
+ #       - origin: https://github.com/mongoose-os-libs/azure
         - origin: https://github.com/mongoose-os-libs/dht
         - origin: https://github.com/mongoose-os-libs/dns-sd
         - origin: https://github.com/mongoose-os-libs/gcp
@@ -95,7 +95,7 @@ conds:
         - origin: https://github.com/mongoose-os-libs/ota-http-client
         - origin: https://github.com/mongoose-os-libs/ota-http-server
         - origin: https://github.com/mongoose-os-libs/pwm
-        - origin: https://github.com/mongoose-os-libs/rpc-azure
+ #       - origin: https://github.com/mongoose-os-libs/rpc-azure
         - origin: https://github.com/mongoose-os-libs/rpc-gcp
         - origin: https://github.com/mongoose-os-libs/rpc-loopback
         - origin: https://github.com/mongoose-os-libs/rpc-mqtt
@@ -105,7 +105,7 @@ conds:
         - origin: https://github.com/mongoose-os-libs/rpc-service-ota
         - origin: https://github.com/mongoose-os-libs/rpc-service-wifi
         - origin: https://github.com/mongoose-os-libs/spi
-        - origin: https://github.com/mongoose-os-libs/vfs-dev-spi-flash
+#        - origin: https://github.com/mongoose-os-libs/vfs-dev-spi-flash
         - origin: https://github.com/mongoose-os-libs/watson
         - origin: https://github.com/mongoose-os-libs/wifi
 
