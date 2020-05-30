@@ -105,8 +105,8 @@ conds:
         - origin: https://github.com/mongoose-os-libs/rpc-service-ota
         - origin: https://github.com/mongoose-os-libs/rpc-service-wifi
         - origin: https://github.com/mongoose-os-libs/spi
-#        - origin: https://github.com/mongoose-os-libs/vfs-dev-spi-flash
-        - origin: https://github.com/mongoose-os-libs/watson
+        - origin: https://github.com/mongoose-os-libs/vfs-dev-spi-flash
+#        - origin: https://github.com/mongoose-os-libs/watson
         - origin: https://github.com/mongoose-os-libs/wifi
 
   - when: mos.platform == "rs14100"
