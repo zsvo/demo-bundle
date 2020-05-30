@@ -3,7 +3,7 @@
 
 ## Overview
 
-# minimal
+### minimal
 
 This library is intended to be used for apps that demonstrate
 Mongoose OS capabilities. It is essentially a collection of libraries that
